@@ -1,0 +1,7 @@
+#contenedor .bloque{
+    display: inline-block;  /* Es esencial para que se muestren los bloques en línea */
+   
+ 
+   
+    margin: 5px;
+}
